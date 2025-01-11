@@ -1,0 +1,7 @@
+hello
+
+whoami
+
+| whoami
+
+;whoami
